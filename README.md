@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exiting projects...
 - 📫 How to reach me mayurbarange07@gmail.com.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Life is art
+- ⚡ Fun fact: Coding is art
 
 <!---
 Zipmayur/Zipmayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
